@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* Top bar */
+.topbar {
+  display: flex;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.home-box {
+  border: 2px solid black;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.menu {
+  display: flex;
+  gap: 5px;
+
+.box {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+
+.hero {
+  height: 300px;
+  border: 2px solid black;
+  margin-top: 5px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  padding: 20px;
+}
+
+.line {
+  height: 10px;
+  border-bottom: 2px wavy rgb(255, 0, 0);
+  margin: 20px 0;
+}

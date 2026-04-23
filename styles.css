@@ -221,3 +221,7 @@ body {
 img {
   border-radius: 12px;
 }
+.car-img {
+  border: 3px solid red;
+  border-radius: 15px;
+}
